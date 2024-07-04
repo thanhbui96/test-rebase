@@ -1,0 +1,1 @@
+echo "Line 2 from user 1"
